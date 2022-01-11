@@ -1,0 +1,28 @@
+h1{
+    color: rgb(255, 38, 0,0.5);
+    text-align: center;
+    border: 2px solid black;
+    background: rgba(47, 0, 255,0.5);
+    font-size: 5rem;/*cỡ chữ*/
+    font-weight: 400;/*độ đậm nhạt của chữ*/
+    font-style: italic;/*kiểu chữ (đậm hay nghiêng)*/
+    font-family: 'Verdana';/*phông chữ*/
+    text-transform: capitalize;/*viết hoa viết thường*/
+    text-decoration: underline;/*gạch chân*/
+}
+h2{
+    font-size:20px;
+    font-size: 3rem;
+    color:aqua;
+    text-align: center;
+}
+html{
+    background: url(https://wallpx.com/thumb/2020/12/teemo-league-of-legends-nautilus-anime-style-jinx-tristana-zac-lulu-728.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 8px;
+}
+#main{
+    margin: 0 0 0 0;/*khoảng cách giữa các border top right bottom left*/
+    padding: 0 0 0 0;/* khoảng cách giữ chữ với border*/
+}
